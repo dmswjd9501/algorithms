@@ -11,4 +11,7 @@ for tc in range(1, 11): # 1부터 10까지 tc 반복
         if arr[i] > arr[i-2] and arr[i] > arr[i-1] and arr[i] > arr[i+1] and arr[i] > arr[i+2]:
             result += arr[i] - max(arr[i-2], arr[i-1], arr[i+1], arr[i+2])
 
+
+
+
     print('#{} {}'.format(tc, result))
