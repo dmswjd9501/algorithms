@@ -7,7 +7,7 @@ arr2 = [list(map(int, input().split())) for _ in range(6, 11)] # 사회자가 �
 for i in range(5): # 총 5개의 열
     for row_value in arr2[i]: # 행에서 값 하나하나 추출
         if row_value in arr1: # 그 값이 arr1에 들어있다면
-            arr1 = arr1 - row_value # arr1에서 그 값을 빼거라
+             # arr1에서 그 값을 빼거라
 
         for row in range(5):
             if not arr1[row][row]: # 만약 arr1의 대각선이 비어있다면,
