@@ -8,7 +8,7 @@ for t in range(1, tc+1):
     stack = []
     print('#{}'.format(t), end=' ')
     for element in arr:
-        if element in ['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']:
+        if element not in '*/+-.':
             stack.append(int(element))
         elif element == '+' and len(stack) >= 2:
             b = stack.pop()
