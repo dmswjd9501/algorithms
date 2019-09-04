@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="34c762b7-1044-42e3-bbad-abb7e0ef0932" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/matrix_search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/othello.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/othello.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190731/.idea/190731.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190731/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190731/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190731/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190731/List.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190731/Untitled.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190731/input2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190801/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190801/.idea/190801.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190801/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190801/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190801/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190801/input1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190801/input2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190801/input3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190801/input4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190801/input5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190801/sw1_min_max.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190801/sw2_electric_bus.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190801/sw3_number_card.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190801/sw4_sum.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190801/sw5_Flatten.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190808/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190808/.idea/190808.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190808/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190808/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190808/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190808/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190808/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190808/Untitled.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190808/input1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190808/input2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190808/input3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190808/input4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190808/input5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190808/sw1_color.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190808/sw2_subset_sum.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190808/sw3_binary_search.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190808/sw4_special_sort.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190808/sw5_electric_stick.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190808/untitled" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190816/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190816/.idea/190816.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190816/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190816/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190816/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190816/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190816/input1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190816/input2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190816/input3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190816/input4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190816/input5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190816/sw1_string.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190816/sw2_string.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190816/sw3_string3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190816/sw4_string4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190816/sw5_string5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190821/.idea/190821.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190821/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190821/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190821/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190821/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190821/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190821/4866.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190821/4871.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190821/4873.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190821/input_4866.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190821/input_4871.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190821/input_4873.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190826/.idea/190826.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../190826/.idea/190826.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190826/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../190826/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190826/1220.py" beforeDir="false" afterPath="$PROJECT_DIR$/../190826/1220.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190827/.idea/190827.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190827/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190827/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190827/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190827/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190827/4874.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190827/4875.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190827/4880.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190827/4881.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190827/input_4874.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190827/input_4875.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190827/input_4880.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190827/input_test1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190827/test1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190829/1979.py" beforeDir="false" afterPath="$PROJECT_DIR$/../190829/1979.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190829/1979.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../190829/1979.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190829/2805.py" beforeDir="false" afterPath="$PROJECT_DIR$/../190829/2805.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190829/2805.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../190829/2805.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190829/5356.py" beforeDir="false" afterPath="$PROJECT_DIR$/../190829/5356.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190829/5356.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../190829/5356.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190829/5789.py" beforeDir="false" afterPath="$PROJECT_DIR$/../190829/5789.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190829/5789.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../190829/5789.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190829/cardcounting.py" beforeDir="false" afterPath="$PROJECT_DIR$/../190829/cardcounting.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190829/영준이카드카운팅.py" beforeDir="false" afterPath="$PROJECT_DIR$/../190829/영준이카드카운팅.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190902/5108.py" beforeDir="false" afterPath="$PROJECT_DIR$/../190902/5108.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190902/5108.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../190902/5108.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190902/5110.py" beforeDir="false" afterPath="$PROJECT_DIR$/../190902/5110.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190902/5110.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../190902/5110.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190902/5120.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../190902/5120.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190902/5122.py" beforeDir="false" afterPath="$PROJECT_DIR$/../190902/5122.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190902/5122.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../190902/5122.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190902/linkedlist2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../190902/linkedlist2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190902/linkedlist3.py" beforeDir="false" afterPath="$PROJECT_DIR$/../190902/linkedlist3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190902/list_병합정렬.py" beforeDir="false" afterPath="$PROJECT_DIR$/../190902/list_병합정렬.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190902/listedlist4.py" beforeDir="false" afterPath="$PROJECT_DIR$/../190902/listedlist4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190903_Queue/.idea/190903_Queue.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190903_Queue/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190903_Queue/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190903_Queue/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190903_Queue/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190903_Queue/5097.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190903_Queue/5097.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190903_Queue/5099.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190903_Queue/5099.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190903_Queue/5102.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190903_Queue/5102.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190903_Queue/5105.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190903_Queue/5105.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1759.py" beforeDir="false" afterPath="$PROJECT_DIR$/1759.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1759.txt" beforeDir="false" afterPath="$PROJECT_DIR$/1759.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/matrix_search.txt" beforeDir="false" afterPath="$PROJECT_DIR$/matrix_search.txt" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DockManager">
+    <window id="2">
+      <content type="file-editors">
+        <state>
+          <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+            <file pinned="false" current-in-tab="true">
+              <entry file="file://$PROJECT_DIR$/othello.txt">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="234">
+                    <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+                  </state>
+                </provider>
+              </entry>
+            </file>
+          </leaf>
+        </state>
+      </content>
+    </window>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1841668511">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.0" value="4" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="5" />
+          <entry key="txt" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="PLAIN_TEXT" value="10" />
+          <entry key="Python" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="9" />
+          <entry key="py" value="2629" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="9" />
+          <entry key="Python" value="2629" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/1759.txt" />
+        <option value="$PROJECT_DIR$/1759.py" />
+        <option value="$PROJECT_DIR$/matrix_search.py" />
+        <option value="$PROJECT_DIR$/othello.txt" />
+        <option value="$PROJECT_DIR$/othello.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="953" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="190904" type="b2602c69:ProjectViewProjectNode" />
+              <item name="190904" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../04_Stack1(4869, 4873)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.othello">
+    <configuration name="1759" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="190904" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1759.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="matrix_search (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="190904" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/matrix_search.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="matrix_search" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="190904" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\student\Desktop\KEJ\algorithms\class\190904\matrix_search(쌤코드).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="othello" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="190904" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/othello.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.matrix_search" />
+      <item itemvalue="Python.1759" />
+      <item itemvalue="Python.matrix_search (1)" />
+      <item itemvalue="Python.othello" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.othello" />
+        <item itemvalue="Python.matrix_search (1)" />
+        <item itemvalue="Python.1759" />
+        <item itemvalue="Python.matrix_search" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="34c762b7-1044-42e3-bbad-abb7e0ef0932" name="Default Changelist" comment="" />
+      <created>1567555515230</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567555515230</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.505618" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32894737" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/1759.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="490">
+          <caret line="70" column="10" lean-forward="true" selection-start-line="70" selection-start-column="10" selection-end-line="70" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1759.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/matrix_search(쌤코드).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="6" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/othello.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/matrix_search.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/othello.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+          <folding>
+            <marker date="1567575149918" expanded="true" signature="124:130" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/matrix_search.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

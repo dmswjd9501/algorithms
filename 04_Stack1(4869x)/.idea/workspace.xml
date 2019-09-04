@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8f3a198f-f634-4940-8bc2-fb162987abe9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/4869.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../190904/matrix_search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../190904/othello.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../190904/othello.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190731/.idea/190731.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190731/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190731/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190731/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190731/List.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190731/Untitled.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190731/input2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190801/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190801/.idea/190801.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190801/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190801/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190801/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190801/input1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190801/input2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190801/input3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190801/input4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190801/input5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190801/sw1_min_max.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190801/sw2_electric_bus.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190801/sw3_number_card.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190801/sw4_sum.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190801/sw5_Flatten.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190808/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190808/.idea/190808.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190808/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190808/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190808/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190808/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190808/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190808/Untitled.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190808/input1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190808/input2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190808/input3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190808/input4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190808/input5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190808/sw1_color.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190808/sw2_subset_sum.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190808/sw3_binary_search.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190808/sw4_special_sort.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190808/sw5_electric_stick.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190808/untitled" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190816/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190816/.idea/190816.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190816/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190816/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190816/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190816/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190816/input1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190816/input2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190816/input3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190816/input4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190816/input5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190816/sw1_string.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190816/sw2_string.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190816/sw3_string3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190816/sw4_string4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190816/sw5_string5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190821/.idea/190821.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190821/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190821/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190821/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190821/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190821/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190821/4866.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190821/4871.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190821/4873.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190821/input_4866.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190821/input_4871.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190821/input_4873.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190826/.idea/190826.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../190826/.idea/190826.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190826/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../190826/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190826/1220.py" beforeDir="false" afterPath="$PROJECT_DIR$/../190826/1220.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190827/.idea/190827.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190827/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190827/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190827/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190827/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190827/4874.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190827/4875.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190827/4880.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190827/4881.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190827/input_4874.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190827/input_4875.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190827/input_4880.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190827/input_test1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190827/test1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190829/1979.py" beforeDir="false" afterPath="$PROJECT_DIR$/../190829/1979.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190829/1979.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../190829/1979.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190829/2805.py" beforeDir="false" afterPath="$PROJECT_DIR$/../190829/2805.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190829/2805.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../190829/2805.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190829/5356.py" beforeDir="false" afterPath="$PROJECT_DIR$/../190829/5356.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190829/5356.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../190829/5356.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190829/5789.py" beforeDir="false" afterPath="$PROJECT_DIR$/../190829/5789.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190829/5789.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../190829/5789.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190829/cardcounting.py" beforeDir="false" afterPath="$PROJECT_DIR$/../190829/cardcounting.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190829/영준이카드카운팅.py" beforeDir="false" afterPath="$PROJECT_DIR$/../190829/영준이카드카운팅.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190902/5108.py" beforeDir="false" afterPath="$PROJECT_DIR$/../190902/5108.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190902/5108.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../190902/5108.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190902/5110.py" beforeDir="false" afterPath="$PROJECT_DIR$/../190902/5110.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190902/5110.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../190902/5110.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190902/5120.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../190902/5120.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190902/5122.py" beforeDir="false" afterPath="$PROJECT_DIR$/../190902/5122.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190902/5122.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../190902/5122.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190902/linkedlist2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../190902/linkedlist2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190902/linkedlist3.py" beforeDir="false" afterPath="$PROJECT_DIR$/../190902/linkedlist3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190902/list_병합정렬.py" beforeDir="false" afterPath="$PROJECT_DIR$/../190902/list_병합정렬.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190902/listedlist4.py" beforeDir="false" afterPath="$PROJECT_DIR$/../190902/listedlist4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190903_Queue/.idea/190903_Queue.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190903_Queue/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190903_Queue/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190903_Queue/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190903_Queue/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190903_Queue/5097.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190903_Queue/5097.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190903_Queue/5099.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190903_Queue/5099.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190903_Queue/5102.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190903_Queue/5102.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190903_Queue/5105.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190903_Queue/5105.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190904/1759.py" beforeDir="false" afterPath="$PROJECT_DIR$/../190904/1759.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190904/1759.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../190904/1759.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190904/matrix_search.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../190904/matrix_search.txt" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1291818275">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="2" />
+          <entry key="txt" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="Python" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="1086" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="1086" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="1332950930">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="2" />
+          <entry key="txt" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="Python" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="980" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="980" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/4869.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/4871.py" />
+        <option value="$PROJECT_DIR$/input_4871.txt" />
+        <option value="$PROJECT_DIR$/input_4873.txt" />
+        <option value="$PROJECT_DIR$/4873.py" />
+        <option value="$PROJECT_DIR$/input_4869.txt" />
+        <option value="$PROJECT_DIR$/4869.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="870" />
+    <option name="width" value="1057" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectId" id="1Pikjus53P8sVLomUPBPYu1IIxo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="04_Stack1(4869, 4873)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="04_Stack1(4869, 4873)" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.4869">
+    <configuration name="4869" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="190821" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4869.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="4871" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="190821" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4871.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="4873" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="190821" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4873.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="DFS_재귀" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="190821" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DFS_재귀.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Ladder1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="190821" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ladder1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.DFS_재귀" />
+      <item itemvalue="Python.Ladder1" />
+      <item itemvalue="Python.4871" />
+      <item itemvalue="Python.4873" />
+      <item itemvalue="Python.4869" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.4869" />
+        <item itemvalue="Python.4873" />
+        <item itemvalue="Python.4871" />
+        <item itemvalue="Python.Ladder1" />
+        <item itemvalue="Python.DFS_재귀" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8f3a198f-f634-4940-8bc2-fb162987abe9" name="Default Changelist" comment="" />
+      <created>1566364442583</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566364442583</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="870" y="0" width="1057" height="1047" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24764468" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32894737" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991228" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/input_4871.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="3" selection-start-line="24" selection-start-column="3" selection-end-line="24" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4871.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4873.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+          <folding>
+            <marker date="1567581424452" expanded="true" signature="403:404" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input_4873.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input_4869.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4869.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4869.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
