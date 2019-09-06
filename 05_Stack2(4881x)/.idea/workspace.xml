@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1eaa4bad-dc32-470b-a170-a301f071e783" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/4881.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../190826/.idea/190826.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../190826/.idea/190826.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../190826/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../190826/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../190826/1220.py" beforeDir="false" afterPath="$PROJECT_DIR$/../190826/1220.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4880.py" beforeDir="false" afterPath="$PROJECT_DIR$/4880.py" afterDir="false" />
-    </list>
+    <list default="true" id="1eaa4bad-dc32-470b-a170-a301f071e783" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,9 +44,38 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="631746915">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/4881(미완성).py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="9" column="30" lean-forward="true" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -74,9 +96,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="756" />
-    <option name="y" value="94" />
-    <option name="width" value="974" />
+    <option name="x" value="870" />
+    <option name="width" value="1057" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -89,8 +110,8 @@
         <subPane>
           <expand>
             <path>
-              <item name="190827" type="b2602c69:ProjectViewProjectNode" />
-              <item name="190827" type="462c0819:PsiDirectoryNode" />
+              <item name="05_Stack2(4881x)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="05_Stack2(4881x)" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -100,7 +121,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../190828" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../190904" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -229,9 +250,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="756" y="94" width="974" height="1047" extended-state="0" />
+    <frame x="870" y="0" width="1057" height="1047" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20299146" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.20253165" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -310,23 +331,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/4881.py">
+    <entry file="file://$PROJECT_DIR$/4881.py" />
+    <entry file="file://$PROJECT_DIR$/4881(미완성).py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
-          <folding>
-            <marker date="1566952208969" expanded="true" signature="116:119" ph="..." />
-            <marker date="1566952208969" expanded="true" signature="116:120" ph="..." />
-            <marker date="1566952208969" expanded="true" signature="116:121" ph="..." />
-            <marker date="1566952208969" expanded="true" signature="116:124" ph="..." />
-            <marker date="1566952208969" expanded="true" signature="116:125" ph="..." />
-            <marker date="1566952208969" expanded="true" signature="116:127" ph="..." />
-            <marker date="1566952208969" expanded="true" signature="116:128" ph="..." />
-            <marker date="1566952208969" expanded="true" signature="116:130" ph="..." />
-            <marker date="1566952208969" expanded="true" signature="116:131" ph="..." />
-            <marker date="1566952208969" expanded="true" signature="116:134" ph="..." />
-            <marker date="1566952208969" expanded="true" signature="116:140" ph="..." />
-          </folding>
+        <state relative-caret-position="162">
+          <caret line="9" column="30" lean-forward="true" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
         </state>
       </provider>
     </entry>

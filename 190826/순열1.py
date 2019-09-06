@@ -7,14 +7,14 @@
 #             print(arr[i], arr[j], arr[k])
 
 # 2. 순열
-# arr = 'ABC'
-# N = len(arr)
-# for i in range(N):
-#     for j in range(N):
-#         if i == j: continue
-#         for k in range(N):
-#             if i == k or k == j: continue
-#             print(arr[i], arr[j], arr[k])
+arr = 'ABC'
+N = len(arr)
+for i in range(N):
+    for j in range(N):
+        if i == j: continue
+        for k in range(N):
+            if i == k or k == j: continue
+            print(arr[i], arr[j], arr[k])
 
 # 2. solution2
 # arr = 'ABC'
@@ -41,20 +41,20 @@
 # perm(0, N)
 
 # solution3 :
-arr = 'ABC'
-N = len(arr)
-order = [0] * N # 원소의 인덱스의 순서를 지정
+# arr = 'ABC'
+# N = len(arr)
+# order = [0] * N # 원소의 인덱스의 순서를 지정
 
-def perm(k, n, used): # 하나의 순열을 생성
-    if k == n:
-        for i in range(n):
-            print(arr[order[i]], end=' ')
-        print()
-        return
+# def perm(k, n, used): # 하나의 순열을 생성
+#     if k == n:
+#         for i in range(n):
+#             print(arr[order[i]], end=' ')
+#         print()
+#         return
 
-    for i in range(n): # 선택하지 않은 요소들에 대해
-        if used & (1 << i): continue
-        order[k] = i
-        perm(k+1, n, used | (1 << i))
+#     for i in range(n): # 선택하지 않은 요소들에 대해
+#         if used & (1 << i): continue
+#         order[k] = i
+#         perm(k+1, n, used | (1 << i))
 
-perm(0, N, 0)
+# perm(0, N, 0)
